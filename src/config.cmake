@@ -9,4 +9,7 @@ set(
   ${CMAKE_CURRENT_LIST_DIR}/main.cu
   ${CMAKE_CURRENT_LIST_DIR}/utils.hpp
   ${CMAKE_CURRENT_LIST_DIR}/range.hpp
+  ${CMAKE_CURRENT_LIST_DIR}/forward_operation.cu
+  ${CMAKE_CURRENT_LIST_DIR}/forward_operation.hpp
+
 )
